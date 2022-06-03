@@ -28,7 +28,7 @@ linkedin_username: lilianaarguello
 github_username:  LilianaArguello
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 

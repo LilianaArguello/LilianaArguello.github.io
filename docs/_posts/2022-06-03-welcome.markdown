@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 You’ll find data science related projects.
 
-![Tree](https://raw.github.com/LilianaArguello/lilianaarguello.github.io/blob/main/docs/img/htmv.jpg)
+![Tree](https://raw.github.com/LilianaArguello/lilianaarguello.github.io/main/docs/img/htmv.jpg)
 
 {% highlight ruby %}
 def print_hi(name)

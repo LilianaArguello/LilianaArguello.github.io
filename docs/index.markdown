@@ -4,5 +4,7 @@
 
 layout: home
 ---
-![Liliana] (https://raw.github.com/LilianaArguello/lilianaarguello.github.io/main/docs/assets/img/liliana_small.jpg)
+![Liliana_small]
+(https://raw.github.com/LilianaArguello/lilianaarguello.github.io/main/docs/assets/img/liliana_small.jpg)
+
 As a passionate about exploring creativity I've compiled the following projects to share what it is possible with data science for solving problems.

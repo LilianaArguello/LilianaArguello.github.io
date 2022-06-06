@@ -21,8 +21,8 @@
 title: Liliana Argüello
 email: liliana.arguello.tecno@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Data scientis, technologist and artist.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Data scientist, technologist and artist.
+baseurl: "/about" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: lilianaarguello
 github_username:  LilianaArguello
